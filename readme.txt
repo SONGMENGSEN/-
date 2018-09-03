@@ -9,7 +9,9 @@ git log
 
 git log --pretty=online
 
-get reset--hard HEAD^
+git reset--hard HEAD^
+
+git reflog 查看历史command line
 
 这是长用的命令
 慢慢增加
