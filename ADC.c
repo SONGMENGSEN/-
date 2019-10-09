@@ -63,10 +63,10 @@ u16 GET_Average(u8 ch,u8 times)
    //	printf(" adc==%d\r\n",adcx);
 	
 //		temp=(float )adcx*(3.3/4096);
-//        printf("��ѹΪ == %f V\r\n",temp);
+//        printf("µçÑ¹Îª == %f V\r\n",temp);
 		
 	
-     //  temp =(1.43-adcx*(3.3/4096))/0.043+25;	
-//	printf("�ڲ��¶�Ϊ== %f C\r\n\r\n",temp);
-
+ //  temp =(1.43-adcx*(3.3/4096))/0.043+25;	
+//	printf("ÄÚ²¿ÎÂ¶ÈÎª== %f C\r\n\r\n",temp);
+// 垃圾的一批
 
